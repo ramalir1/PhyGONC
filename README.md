@@ -51,11 +51,11 @@ Results are means across five seeds (640 simulated robot runs per configuration)
 
 **3D robot motion, stereo camera views and tracking performance**
 
-![PhyGONC 3D stress test](media/stress_test.gif)
+![PhyGONC 3D stress test](stress_test.gif)
 
 **Stress-test diagnostics**
 
-![Tracking diagnostics](media/tracking_diagnostics.png)
+![Tracking diagnostics](tracking_diagnostics.png)
 
 ### Scope
 
